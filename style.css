@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+}
+#title{
+    color: blue;
+}
+.newColor{
+    color: violet;
+}
+img{
+    width: 100px;
+    height: 100px
+}
+div{
+    border: 5px solid black;
+    margin-top: 30px;
+    padding-left: 100px;
+    background-color: aqua;
+
+}
+li{
+    display:inline
+}
